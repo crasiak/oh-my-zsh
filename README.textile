@@ -1,3 +1,5 @@
+p. *Personal fork — not intended for public consumption.* This is a personal working copy of "ohmyzsh/ohmyzsh":https://github.com/ohmyzsh/ohmyzsh, kept for experiments. It is unmaintained and unsupported, may diverge from upstream or be rewritten at any time, and nothing here is released for others to use. Use the upstream project instead.
+
 A handful of functions, auto-complete helpers, and stuff that makes you shout...
 
 
